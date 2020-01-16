@@ -14,3 +14,27 @@ body
     background-position:center;
     background-size: cover;
 }
+
+.navbar
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.navbar a
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma;
+    margin-right:  80px;
+    border: 2px solid transparent;
+    padding: 10px;
+    transition: 0.3s;
+}
+
+.navbar a:hover
+{
+    background: #000;
+    border: 2px solid #fff;
+}
