@@ -38,3 +38,35 @@ body
     background: #000;
     border: 2px solid #fff;
 }
+
+
+.head-content
+{
+    text-align: center;
+}
+.head-content img
+{
+    border-radius: 50%;
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
+
+.head-content img:hover
+{
+    border: 2px solid #000;
+}
+.name
+{
+    cursor: pointer;
+    font-size: 50px;
+    color: #fff;
+    font-family: Algerian;
+}
+
+.desc
+{
+    cursor: default;
+    font-size:30px;
+    color: #fff;
+    font-family: Harlow Solid;
+}
