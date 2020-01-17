@@ -90,11 +90,36 @@ body
     padding: 15px;
 }
 
-.skills-section
+.projects-section
 {
     width:100%;
     height: 400px;
     background: #9ea0a3;
+    text-align: center;
+}
+
+.projects-section h2
+{
+    text-align: bottom;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+
+.projects-section img
+{
+    height:300px;
+    width: 300px;
+    border:2px solid transparent;
+}
+
+.skills-section
+{
+    width:100%;
+    height: 400px;
+    background: #b3c3db;
     text-align: center;
 }
 
@@ -112,6 +137,7 @@ body
     height:300px;
     width: 300px;
     border:2px solid transparent;
+
 }
 .skills-section img:hover
 {
